@@ -1,1 +1,1 @@
-Версія проекту, що була зроблена на курсах у IT School Logos
+A project using Django in LOGOS IT SCHOOL. 
