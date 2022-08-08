@@ -1,1 +1,1 @@
-A project using Django in LOGOS IT SCHOOL. 
+A project using Django during my study in LOGOS IT SCHOOL. 
